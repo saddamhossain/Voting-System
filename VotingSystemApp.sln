@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingSystemApp", "VotingSystemApp\VotingSystemApp.csproj", "{76D60184-5001-418D-8083-E4DB382936EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingSystemApp.Test", "VotingSystemApp.Test\VotingSystemApp.Test.csproj", "{731FFF37-0136-4D32-A14E-47DA2A6673F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D60184-5001-418D-8083-E4DB382936EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D60184-5001-418D-8083-E4DB382936EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D60184-5001-418D-8083-E4DB382936EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D60184-5001-418D-8083-E4DB382936EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{731FFF37-0136-4D32-A14E-47DA2A6673F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{731FFF37-0136-4D32-A14E-47DA2A6673F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{731FFF37-0136-4D32-A14E-47DA2A6673F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{731FFF37-0136-4D32-A14E-47DA2A6673F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
